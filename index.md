@@ -8,4 +8,6 @@ Dec 4, 2020
 
 https://connectforward.womenwhocode.dev
 
+Presentation Link: https://github.com/kmr0018/ConnectForward-PubSubOnGCP/blob/gh-pages/PubSubGcpPresentation.pptx
+
 
